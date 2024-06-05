@@ -1,0 +1,27 @@
+/* article4.css */
+
+.article-content {
+    background: #4a5568;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.article-content h2 {
+    margin-bottom: 10px;
+}
+
+.article-content ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.article-content ul li {
+    margin-bottom: 10px;
+}
+
+.article-content li strong {
+    color: #f56565;
+}
